@@ -255,7 +255,7 @@ Choose your repo
 </h4>
   
 <p align="center">
-    <a href="https://railway.app/new">
+    <a href="[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/7CvSIX?referralCode=jgQ8fS)">
     <p align="center"><a href="https://railway.app/new"> <img src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
     
 </p>
